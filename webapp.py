@@ -7,7 +7,7 @@ st.write("""
 # "Solo tres acciones de empresas argentinas en Nueva York ganaron en 2020"
 Aplicación web realizada con la librería Streamlit. Los datos fueron obtenidos a través de la librería Yfinance.
 https://www.cronista.com/finanzas-mercados/Bolsas-de-Europa-cerraron-en-rojo-por-mas-restricciones-y-WallStreetopera-plano-20201231-0011.html
-Precio de cierre, volumen, info de la compañía, durante el 2020.  
+Precio de cierre y volumen durante el 2020, info de la compañía.  
 #  Mercado libre:
 """)
 
